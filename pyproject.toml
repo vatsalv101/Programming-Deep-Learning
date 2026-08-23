@@ -1,0 +1,42 @@
+[project]
+name = "programming-deep-learning"
+version = "2026.0.1"
+description = "Material for the lecture 'Programming Deep Learning' by Prof. Harmeling."
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "ipython>=9.9.0",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.5.6",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "pandas>=3.0.1",
+    "plotly>=6.5.2",
+    "pyarrow>=25.0.0",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "tqdm>=4.67.3",
+]
+
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cpu" } # change this based on your GPUs cuda version
+]
+torchvision = [
+  { index = "pytorch-cpu" } # change this based on your GPUs cuda version
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
