@@ -1,12 +1,13 @@
-# 1: Vectorization Basics and Advanced
+# 1: Vectorization and Linear Regression
 
 ## 🎯 Objective
-Today's focus was on computational efficiency. I learned how to eliminate slow Python `for` loops by leveraging PyTorch's vectorized operations and broadcasting with tensors.
+Today's focus was on computational efficiency and foundational modeling. I learned how to eliminate slow Python `for` loops leveraging PyTorch's vectorized operations, and applied these skills to build a Linear Regression model from scratch.
 
 ## 📝 Exercises Completed
 1. **Vectorization Basics:** Transitioned basic iterative logic into optimized PyTorch tensor operations.
 2. **Vectorization Advanced:** Implemented complex operations like matrix multiplication, dot products, and broadcasting.
 3. **Extra Practice:** Completed additional vectorization challenges.
+4. **Linear Regression:** Built a custom linear regression model optimized with PyTorch vectorization.
 
 ## 🛠️ PyTorch Functions Mastered
 During these exercises (including the comprehensive `Practice.ipynb`), I utilized a wide array of PyTorch functions to eliminate loops and optimize complex operations:
