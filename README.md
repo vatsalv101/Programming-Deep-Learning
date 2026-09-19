@@ -10,7 +10,9 @@ This repository documents my comprehensive, hands-on journey through deep learni
 ## 🚀 Learning Journey & Progress Tracker
 This project is broken down into 13 core topics. Each folder contains my vectorized PyTorch implementations, Jupyter notebooks detailing the concepts, and summaries of related research papers.
 
-- **01. Vectorization: Mastering PyTorch tensor manipulations, broadcasting, and eliminating slow Python loops.
+- [x] **01. Vectorization**: Mastering PyTorch tensor manipulations, broadcasting, and eliminating slow Python loops.
+- [x] **02. Multilayer Perceptrons**: Implementing MLPs from scratch using low-level tensor mathematics and PyTorch's `nn` module.
+- [x] **03. Computational Graphs**: Manually calculating forward and backward passes to understand reverse-mode automatic differentiation.
 
 
 ## 💻 Local Setup & Reproduction
