@@ -13,6 +13,7 @@ This project is broken down into 13 core topics. Each folder contains my vectori
 - [x] **01. Vectorization**: Mastering PyTorch tensor manipulations, broadcasting, and eliminating slow Python loops.
 - [x] **02. Multilayer Perceptrons**: Implementing MLPs from scratch using low-level tensor mathematics and PyTorch's `nn` module.
 - [x] **03. Computational Graphs**: Manually calculating forward and backward passes to understand reverse-mode automatic differentiation.
+- [x] **04. Optimizers**: Implementing SGD, Momentum, RMSProp, Adam, and AdamW from scratch using PyTorch math.
 
 
 ## 💻 Local Setup & Reproduction
