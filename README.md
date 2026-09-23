@@ -16,6 +16,7 @@ This project is broken down into 13 core topics. Each folder contains my vectori
 - [x] **04. Optimizers**: Implementing SGD, Momentum, RMSProp, Adam, and AdamW from scratch using PyTorch math.
 - [x] **05. Convolutional Neural Networks**: Building Conv2D, Max-Pooling, and Dropout layers from scratch (forward and backward passes).
 - [x] **06. Normalization and CNN Design**: Implementing LayerNorm and BatchNorm from scratch, and architecting a deep CNN on CIFAR-10.
+- [x] **07. Weight Initialization and ResNets**: Kaiming initialization and implementing Residual Networks with skip connections from scratch.
 
 
 ## 💻 Local Setup & Reproduction
