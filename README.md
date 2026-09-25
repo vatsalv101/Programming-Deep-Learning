@@ -18,6 +18,7 @@ This project is broken down into 13 core topics. Each folder contains my vectori
 - [x] **06. Normalization and CNN Design**: Implementing LayerNorm and BatchNorm from scratch, and architecting a deep CNN on CIFAR-10.
 - [x] **07. Weight Initialization and ResNets**: Kaiming initialization and implementing Residual Networks with skip connections from scratch.
 - [x] **08. Recurrent Neural Networks (LSTMs)**: Building LSTM gates from scratch and training a character-level Shakespeare language model.
+- [x] **09. Attention and Vision Transformers**: Implementing Scaled Dot-Product Attention and building a ViT for CIFAR-10 classification.
 
 
 ## 💻 Local Setup & Reproduction
