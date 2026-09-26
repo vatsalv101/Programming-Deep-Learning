@@ -19,6 +19,7 @@ This project is broken down into 13 core topics. Each folder contains my vectori
 - [x] **07. Weight Initialization and ResNets**: Kaiming initialization and implementing Residual Networks with skip connections from scratch.
 - [x] **08. Recurrent Neural Networks (LSTMs)**: Building LSTM gates from scratch and training a character-level Shakespeare language model.
 - [x] **09. Attention and Vision Transformers**: Implementing Scaled Dot-Product Attention and building a ViT for CIFAR-10 classification.
+- [x] **10. Self-Supervised Learning**: Implementing RotNet and Bootstrap Your Own Latent (BYOL) to learn representations without labels.
 
 
 ## 💻 Local Setup & Reproduction
