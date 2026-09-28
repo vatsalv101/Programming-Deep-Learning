@@ -8,7 +8,7 @@ This repository documents my comprehensive, hands-on journey through deep learni
 * **Package Management:** `uv` (for fast, reproducible virtual environments)
 
 ## 🚀 Learning Journey & Progress Tracker
-This project is broken down into 13 core topics. Each folder contains my vectorized PyTorch implementations, Jupyter notebooks detailing the concepts, and summaries of related research papers.
+This project is broken down into 13 core topics. Each folder contains my vectorized PyTorch implementations of my course-work, Jupyter notebooks detailing the concepts, and summaries of related research papers.
 
 - [x] **01. Vectorization**: Mastering PyTorch tensor manipulations, broadcasting, and eliminating slow Python loops.
 - [x] **02. Multilayer Perceptrons**: Implementing MLPs from scratch using low-level tensor mathematics and PyTorch's `nn` module.
@@ -20,6 +20,7 @@ This project is broken down into 13 core topics. Each folder contains my vectori
 - [x] **08. Recurrent Neural Networks (LSTMs)**: Building LSTM gates from scratch and training a character-level Shakespeare language model.
 - [x] **09. Attention and Vision Transformers**: Implementing Scaled Dot-Product Attention and building a ViT for CIFAR-10 classification.
 - [x] **10. Self-Supervised Learning**: Implementing RotNet and Bootstrap Your Own Latent (BYOL) to learn representations without labels.
+- [x] **11. Generative Models**: Building Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) from scratch.
 
 
 ## 💻 Local Setup & Reproduction
