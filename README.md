@@ -21,6 +21,7 @@ This project is broken down into 13 core topics. Each folder contains my vectori
 - [x] **09. Attention and Vision Transformers**: Implementing Scaled Dot-Product Attention and building a ViT for CIFAR-10 classification.
 - [x] **10. Self-Supervised Learning**: Implementing RotNet and Bootstrap Your Own Latent (BYOL) to learn representations without labels.
 - [x] **11. Generative Models**: Building Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) from scratch.
+- [x] **12. Diffusion Models**: Constructing U-Nets to build DDPMs and accelerated DDIM samplers from scratch.
 
 
 ## 💻 Local Setup & Reproduction
