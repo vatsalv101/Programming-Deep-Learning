@@ -9,6 +9,7 @@ __pycache__/
 *.tgz
 *.zip
 *.gz
+*.arrow
 
 # Virtual Environments
 .venv/
